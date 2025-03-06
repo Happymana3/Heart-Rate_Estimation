@@ -80,17 +80,17 @@ python3 HRE.py
 
 ## 🐛 Bug Reporting
 
-Feel free to [open an issue](https://github.com/abhishek-iiit/Heart-Rate_Estimation/issues) on GitHub if you find any bug.
+Feel free to [open an issue](https://github.com/Happymana3/Heart-Rate_Estimation/issues) on GitHub if you find any bug.
 
 <a id="feature-request"></a>
 
 ## ⭐ Feature Request
 
-- Feel free to [Open an issue](https://github.com/abhishek-iiit/Heart-Rate_Estimation/issues) on GitHub to request any additional features you might need for your use case.
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-iiit/). I'd love ❤️️ to hear where you are using this system.
+- Feel free to [Open an issue](https://github.com/Happymana3/Heart-Rate_Estimation/issues) on GitHub to request any additional features you might need for your use case.
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/Happymana3/). I'd love ❤️️ to hear where you are using this system.
 
 <a id="license"></a>
 
 ## 📜 License
 
-This software is open source, licensed under the [MIT License](https://github.com/abhishek-iiit/Heart-Rate_Estimation/blob/main/LICENSE).
+This software is open source, licensed under the [MIT License](https://github.com/Happymana3/Heart-Rate_Estimation/blob/main/LICENSE).
